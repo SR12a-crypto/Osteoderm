@@ -29,8 +29,9 @@ https://github.com/user-attachments/assets/f6b7f969-2cec-4a4f-9de2-08470b23bd15
 
 The project is currently a prototype. Its hardware configuration, scanning capabilities, and diagnostic performance must be validated before any clinical use.
 
-**Website Link**
+**Website Links**
 https://care-navigator-3d.lovable.app/
+https://ai-healthcare-access-3hla.bolt.host
 
 **Disclaimer**
 
